@@ -49,4 +49,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/souza.leonardo07@escola.pr.gov.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/souzaleonardo07-leo?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/souzaleonardo07-leo?label=follow&style=social)](github.com/souzaleonardo07-leo)
